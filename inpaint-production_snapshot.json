@@ -1,10 +1,6 @@
 {
     "comfyui": "2f98c243603aaf461eda72b86e447c1b047623c2",
     "git_custom_nodes": {
-        "https://github.com/Acly/comfyui-inpaint-nodes": {
-            "hash": "20092c37b9dfc481ca44e8577a9d4a9d426c0e56",
-            "disabled": false
-        },
         "https://github.com/ltdrdata/ComfyUI-Manager.git": {
             "hash": "da2b4be539180aafd3150b61c453661186c858d8",
             "disabled": false
