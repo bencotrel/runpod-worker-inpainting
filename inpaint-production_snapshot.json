@@ -33,7 +33,8 @@
         "comfyui_essentials": "1.1.0",
         "comfyui-inpaint-cropandstitch": "1.0.0",
         "comfyui-easy-use": "1.2.7",
-        "comfyui-tooling-nodes": "2.0.1"
+        "comfyui-tooling-nodes": "2.0.1",
+        "comfyui-inpaint-nodes": "1.0.3"
     },
     "file_custom_nodes": [
         {
