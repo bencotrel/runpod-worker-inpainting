@@ -30,9 +30,7 @@ RUN pip install opencv-python
 RUN pip install comfy-cli
 
 # Install ComfyUI
-RUN /usr/bin/yes | comfy --workspace /comfyui install --cuda-version 11.8 --nvidia --version 0.2.7
-
-RUN comfy update
+RUN /usr/bin/yes | comfy --workspace /comfyui install --cuda-version 11.8 --nvidia --version 0.3.15
 
 # Change working directory to ComfyUI
 WORKDIR /comfyui
